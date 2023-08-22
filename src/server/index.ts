@@ -1,3 +1,3 @@
 import {debugLogger} from "../share/utils/debug-logger";
 
-debugLogger("No share folder compiled?")
+debugLogger("No share folder.")
