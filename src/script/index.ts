@@ -1,3 +1,3 @@
 import {debugLogger} from "../share/utils/debug-logger";
 
-debugLogger("The server folder.")
+debugLogger("The script folder.")

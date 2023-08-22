@@ -34,3 +34,4 @@ yarn-debug.log*
 yarn-error.log*
 /coverage
 /dist-server
+/dist-script
