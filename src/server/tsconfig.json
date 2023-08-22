@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.build.json",
+  "comment": "We must set the correct scope in Webstorm Typescript section to enable compilation.",
+  "compileOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "./../../dist-server",
+    "lib": ["es2019",  "esnext.asynciterable"]
+  }
+}
